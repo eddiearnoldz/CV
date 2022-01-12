@@ -1,6 +1,6 @@
 ## Eddie Arnold
 
-  I am a full-stack junior developer that recently graduated from the Makers Academy bootcamp in London. With 10 years experience as an actor, my background in the creative arts has brought a high level of focus, problem solving and passion to my coding. I strive to create simple, effective and maleable code through team collaboration and personal exploration. I am looking to join a company that believes wholeheartedly in their mission and encourages personal growth while working towards a common goal and learning some new languages and frameworks along the way.
+  I am a full-stack junior developer that recently graduated from the Makers Academy bootcamp in London, UK. With 10 years experience as an actor, my background in the creative arts has brought a high level of focus, problem solving and passion to my coding. I strive to create simple, effective and maleable code through team collaboration and personal exploration. I am looking to join a company that believes wholeheartedly in their mission and encourages personal growth while working towards a common goal and learning some new languages and frameworks along the way.
 
 ## Skills
 **Fast Learner**
