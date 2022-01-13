@@ -62,5 +62,4 @@ Throughout my career i have had the chance to collaborate with some of the best 
 - Maths (A), Spanish (A), Business Studies (A), Biology (B), GS (A)
 
 ## Hobbies
-running, cycling, furniture restoration and woodwork 
-# CV
+running, cycling, furniture restoration and woodwork
