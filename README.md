@@ -1,6 +1,6 @@
 # Eddie Arnold
 
-  I am a full-stack junior developer and recent graduate from the Makers Academy bootcamp in London. Having spent the past ten years acting on stage and screen, my background in the creative arts has brought a high level of focus, problem solving and enthusiasm to my coding. I strive to create simple, effective and concise code through team collaboration and personal development. I am looking to join a company that believes passionately in their mission and encourages personal growth while working towards a common goal. Hopefully this will involve learning new languages and frameworks to develop my skill set.
+  I am a full-stack junior developer and recent graduate from the Makers Academy bootcamp in London. Having spent the past ten years acting on stage and screen, my background in the creative arts has brought a high level of focus, problem solving and enthusiasm to the start of my coding career. I strive to create simple, effective and concise code through team collaboration and personal development. I am looking to join a company that believes passionately in their mission and encourages personal growth while working towards a common goal. Hopefully this will involve learning new languages and frameworks to develop my skill set. 
 
 ## Skills
 <kbd>**Fast Learner**</kbd>
@@ -25,7 +25,7 @@ From continuity in filming to punctuation in Shakespeare I have developed a keen
 
 <kbd>**Creative**</kbd>
 
-Building detailed character studies for stage and screen has nourished my creativity. This transferable skill has encouraged me to think outside of the box when creating code for programs from scratch. 
+Building detailed character studies for stage and screen has nourished my creativity. This transferable skill has encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs. 
 
 ## Experience
 
@@ -37,19 +37,20 @@ Throughout my career i have had the chance to collaborate with some of the best 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Student Directory**        | A command line app to manage the list of students at Makers Academy. | CLI, Ruby         |
-
+| **Front-End-API-Challenge**  | An imitation Twitter website built using vanilla javascript and ESBuild | ESBuild, Javascript    |
+| **Acebook-Challenge**        | A mock up of the Facebook website built using a MERN fullstack | MongoDB, node.js, React, Express  |
+| **Bank-Tech-Test**           | A CLI project we were given the weekend to complete to mimic a tech test | Javascript            |
 
 ## Education
 
 #### Makers Academy (December 2021 to April 2022)
 - Highly intensive 12-week full-time course
-- Encouraged to problem-solve and learn independently 
+- Encouraged to problem-solve and learn independently
 - Object Oriented and Test Driven Development
-- Agile/XP
-- Ruby, Rails, JavaScript, Node.js, React Native
-- PostgreSQL, MongoDB
-- RSpec, Capybara, Jasmine, Jest
+- Agile/XP, Continuous Integration, CD
+- LANGUAGES & FRAMEWORKS: JavaScript, Ruby, Node.js, React, Express, Sinatra
+- DATABASES: PostgreSQL, MongoDB
+- TESTING: RSpec, Capybara, Jest, Cypress
 
 #### Drama Studio London (2009 to 2011)
 - 2- year postgraduate diploma in acting
