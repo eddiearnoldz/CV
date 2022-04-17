@@ -42,7 +42,7 @@ Throughout my career i have had the chance to collaborate with some of the best 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final-Engineering-Project  | A multi-lingual app linking refugee mothers and their needs to donors around the country       |
+| **Final-Engineering-Project  | A multilingual app linking refugee mothers and their needs to donors around the country       |
 | **Front-End-API-Challenge**  | An imitation Twitter website built using vanilla javascript and ESBuild | ESBuild, Javascript    |
 | **Acebook-Challenge**        | A mock up of the Facebook website built using a MERN fullstack | MongoDB, node.js, React, Express  |
 | **Bank-Tech-Test**           | A CLI project we were given the weekend to complete to mimic a tech test | Javascript            |
@@ -62,7 +62,7 @@ Throughout my career i have had the chance to collaborate with some of the best 
 - 2- year postgraduate diploma in acting
 - Carlton-Hobbs finalist, Spotlight finalist and Equity nominee
 
-#### Universtiy College London (2006 to 2009)
+#### University College London (2006 to 2009)
 - BSc Economics, 2:1
 
 #### A-Levels
