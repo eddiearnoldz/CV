@@ -42,7 +42,7 @@ Throughout my career i have had the chance to collaborate with some of the best 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final-Engineering-Project  | A multilingual app linking refugee mothers and their needs to donors around the country       |
+| **Final-Engineering-Project  | A multilingual app linking refugee mothers and their needs to donors around the country | MongoDB, React, Express, Jest, Node.js, Cypress|
 | **Front-End-API-Challenge**  | An imitation Twitter website built using vanilla javascript and ESBuild | ESBuild, Javascript    |
 | **Acebook-Challenge**        | A mock up of the Facebook website built using a MERN fullstack | MongoDB, node.js, React, Express  |
 | **Bank-Tech-Test**           | A CLI project we were given the weekend to complete to mimic a tech test | Javascript            |
