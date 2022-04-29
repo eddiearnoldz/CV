@@ -14,11 +14,7 @@ The Makers course has provided me with the tools to learn new ideas and concepts
 
 <kbd>**Strong communicator**</kbd>
 
-For the past ten years I have taken other people's writing and given the audience an honest and truthful representation of the writer's world. Being able to communicate not just a thought but a feeling puts me in a great position to communicate clearly with my peers as well as interdeparmentally and on the client-side.
-
-<kbd>**Native spanish speaker**</kbd>
-
-Having a Colombian mother and growing up in South America I am fluent in Spanish and can facilitate communication between English and Spanish as a translator.
+For the past ten years I have taken other people's writing and given the audience an honest and truthful representation of the writer's world. Being able to communicate not just a thought but a feeling puts me in a great position to communicate clearly with my peers as well as interdeparmentally and on the client-side. Having a Colombian mother and growing up in South America I am also fluent in Spanish and can facilitate communication between English and Spanish as a translator.
 
 <kbd>**Adaptable**</kbd>
 
@@ -28,22 +24,18 @@ Whether it be a new coding language or a new team, I am at ease with evolving en
 
 From continuity in filming to punctuation in Shakespeare I have developed a keen eye for detail in both language and aesthetics. I understand the value of clarity and purpose in code is the same as in any language. This has become an invaluable skill in my coding, whether it be debugging in the back-end or designing the front-end.
 
-<kbd>**Creative**</kbd>
-
-Building detailed character studies for stage and screen has nourished my creativity. This transferable skill has encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs. 
-
 ## Experience
 
 **Actor** (2011 to 2021)
 
-Throughout my career i have had the chance to collaborate with some of the best directors in the UK and abroad, performing on stage in the West End and on Broadway, as well as acting for TV and Film around Europe.
+As a freelance actor I have had the chance to collaborate with some of the best directors in the UK and abroad, on productions from Broadway transfers in the West End to award winnning independent theatre at the Eidnburgh Fringe Festival, as well as acting for TV and Film around Europe . Building detailed character studies for stage and screen has nourished my creativity and team building skills. These transferable assets have encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs, while always forming strong relationships with my peers and a nurturing a supportive growth environemt.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Final-Engineering-Project  | A multilingual app linking refugee mothers and their needs to donors around the country | MongoDB, React, Express, Jest, Node.js, Cypress|
-| **Front-End-API-Challenge**  | An imitation Twitter website built using vanilla javascript and ESBuild | ESBuild, Javascript    |
+| Final-Engineering-Project  | A multilingual app linking refugee mothers and their needs to donors around the country (https://github.com/eddiearnoldz/Sonder)| MongoDB, React, Express, Jest, Node.js, Cypress|
+| **Indie Record Label Website**  | A website for a record label based in East London (https://github.com/eddiearnoldz/9PocketsRecords) | Javascript, React, Tailwind CSS  |
 | **Acebook-Challenge**        | A mock up of the Facebook website built using a MERN fullstack | MongoDB, node.js, React, Express  |
 | **Bank-Tech-Test**           | A CLI project we were given the weekend to complete to mimic a tech test | Javascript            |
 
@@ -57,6 +49,7 @@ Throughout my career i have had the chance to collaborate with some of the best 
 - LANGUAGES & FRAMEWORKS: JavaScript, Ruby, Node.js, React, Express, Sinatra
 - DATABASES: PostgreSQL, MongoDB
 - TESTING: RSpec, Capybara, Jest, Cypress
+- EQ training: feedback, collaboration and communication
 
 #### Drama Studio London (2009 to 2011)
 - 2- year postgraduate diploma in acting
@@ -69,5 +62,6 @@ Throughout my career i have had the chance to collaborate with some of the best 
 - Maths (A), Spanish (A), Business Studies (A), Biology (B), GS (A)
 
 ## Hobbies
-running, cycling, furniture restoration and woodwork
+Through the Covid lockdowns I got really into mid century furniture restoration and would love to chat all things carpentry!
+Also a keen runner and cyclist, I recently did my first 50 mile + cycle from London to Cambridge
 
