@@ -7,6 +7,13 @@
 
 <a href="#"><p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eddiearnoldz&show_icons=true&locale=en" alt="eddiearnoldz" /></p></a>
 
+## Experience
+
+**Actor** (2011 to 2021)
+
+As a freelance actor I have had the chance to collaborate with some of the best directors in the UK and abroad, on productions from Broadway transfers in the West End to award winnning independent theatre at the Eidnburgh Fringe Festival, as well as acting for TV and Film around Europe . Building detailed character studies for stage and screen has nourished my creativity and team building skills. These transferable assets have encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs, while always forming strong relationships with my peers and a nurturing a supportive growth environemt.
+
+
 ## Skills
 <kbd>**Fast Learner**</kbd>
 
@@ -24,11 +31,6 @@ Whether it be a new coding language or a new team, I am at ease with evolving en
 
 From continuity in filming to punctuation in Shakespeare I have developed a keen eye for detail in both language and aesthetics. I understand the value of clarity and purpose in code is the same as in any language. This has become an invaluable skill in my coding, whether it be debugging in the back-end or designing the front-end.
 
-## Experience
-
-**Actor** (2011 to 2021)
-
-As a freelance actor I have had the chance to collaborate with some of the best directors in the UK and abroad, on productions from Broadway transfers in the West End to award winnning independent theatre at the Eidnburgh Fringe Festival, as well as acting for TV and Film around Europe . Building detailed character studies for stage and screen has nourished my creativity and team building skills. These transferable assets have encouraged me to think outside of the box when writing code for programs from scratch and seeing possibility for improvement in existing designs, while always forming strong relationships with my peers and a nurturing a supportive growth environemt.
 
 ## Projects
 
